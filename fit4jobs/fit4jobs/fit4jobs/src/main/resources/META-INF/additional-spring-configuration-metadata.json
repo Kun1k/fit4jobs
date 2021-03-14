@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "fit4jobs.app.jwtSecret",
+  "type": "java.lang.String",
+  "description": "A description for 'fit4jobs.app.jwtSecret'"
+}]}
